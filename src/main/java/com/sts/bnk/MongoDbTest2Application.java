@@ -10,9 +10,3 @@ public class MongoDbTest2Application {
 		SpringApplication.run(MongoDbTest2Application.class, args);
 	}
 }
-
-
-// controller, service, dao, model, repo
-
-// service interface
-// dao interface
